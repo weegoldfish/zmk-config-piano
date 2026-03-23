@@ -93,3 +93,4 @@ jobs:
         with:
           name: firmware
           path: build/artifacts
+FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true
