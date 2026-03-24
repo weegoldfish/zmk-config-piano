@@ -4,7 +4,7 @@
 config ZMK_BLE
 	default y
 
-config ZMK_USB
+config_ZMK_USB
 	default y
 
 if SHIELD_PIANO_DONGLE || SHIELD_PIANO_NORM_LEFT || SHIELD_PIANO_NORM_RIGHT
